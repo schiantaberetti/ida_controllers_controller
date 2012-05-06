@@ -1,0 +1,3 @@
+Simple program to interact with Compaq Intelligent Drive Array Controllers.
+
+The Compaq Intelligent Drive Array (IDA) technology is used to distribute data across an array of hard drives. It unites these hard drives into one or more high-performance logical drives. The drive array is managed by an array controller. 
